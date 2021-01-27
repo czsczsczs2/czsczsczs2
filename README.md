@@ -3,7 +3,7 @@
 [<img align="left" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
 [<img align="left" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">][instagram]
 [<img align="left" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/line.svg">][line]
-
+<img align="right" src="https://i.makeagif.com/media/9-16-2016/mFg1NY.gif">
 <br>
 
 ### A Student/Developer
