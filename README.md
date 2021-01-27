@@ -8,7 +8,6 @@
 
 ### A Student/Developer
 
-<img align="right" src="https://i.makeagif.com/media/9-16-2016/mFg1NY.gif">
 
 #### About myself
 
