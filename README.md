@@ -10,7 +10,7 @@
 
 <img align="right" src="https://i.makeagif.com/media/9-16-2016/mFg1NY.gif">
 
-About myself
+#### About myself
 
 - <img width="22px" src="https://dscfau.com/static/media/logo.ade0843b.png"> NUK DSC Core Team Member 
 - 🙋‍♂️ NUK CSIE Student Association Director
