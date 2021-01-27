@@ -7,7 +7,7 @@
 <img align="right" src="https://i.makeagif.com/media/9-16-2016/mFg1NY.gif">
 <br>
 
-### A Student,Developer and libero!!
+### A Student,Developer and Libero!!
 
 
 #### About myself
